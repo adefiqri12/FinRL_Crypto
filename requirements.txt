@@ -3,7 +3,7 @@ elegantrl==0.3.3
 exchange_calendars==3.3
 fracdiff==0.9.0
 gym==0.21.0
-joblib==1.1.0
+joblib==1.1.1
 matplotlib==3.4.3
 numpy==1.22.2
 optuna==2.10.0
@@ -15,7 +15,7 @@ scikit_learn==1.2.0
 scipy==1.8.0
 seaborn==0.11.2
 statsmodels==0.13.2
-stockstats==0.3.2
+#stockstats==0.3.2
 TA_Lib==0.4.21
 torch==1.9.1
 tqdm==4.63.0
